@@ -2,7 +2,7 @@
 ![image](https://github.com/user-attachments/assets/b4af7cec-6215-4627-b6de-ddeb2726b475)
 
 
-<h1>Creating A Resource Group and An Azure Virtual Machine</h1>
+<h1>Creating A Resource Group in Azure and An Azure Virtual Machine</h1>
 In this tutorial, we will create our first resource group and an Azure virtual machine. We will then use Remote Desktop to sign into our virtual machine to make sure everything worked properly. <br />
 <h2>Environments and Technologies Used</h2>
 
