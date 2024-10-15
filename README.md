@@ -12,7 +12,7 @@ In this tutorial, we will create our first resource group and an Azure virtual m
 
 <h2>Operating Systems Used </h2>
 
-- Windows 10 (21H2)
+- Windows 10 (22H2)
 <h2>High-Level Steps</h2>
 
 - Go to resource groups in Azure
