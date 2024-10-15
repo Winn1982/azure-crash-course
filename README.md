@@ -6,7 +6,7 @@
 In this tutorial, we will create our first resource group and an Azure virtual machine. We will then use Remote Desktop to sign into our virtual machine to make sure everything worked properly. <br />
 <h2>Environments and Technologies Used</h2>
 
-- Microsoft Azure (Virtual Machines/Compute)
+- Microsoft Azure (Virtual Machines)
 - Remote Desktop
 
 
