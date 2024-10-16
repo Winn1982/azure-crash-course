@@ -25,7 +25,7 @@ In this tutorial, we will create our first resource group and an Azure virtual m
 
 ![image](https://github.com/user-attachments/assets/941a51fb-74ae-4337-a7fb-e77c4d8a0d5c)
 
-We have started creating our resource group named "Azure-Resource-Group". We will review and create the resource group next. 
+We have started creating our resource group named "Azure-Resource-Group". We will review and create the resource group next. Make sure you note what Region you are selecting, because it has to be the same region for the virtual machine that you create. When done you can click "Review and Create". 
 </p>
 <br />
 
@@ -45,11 +45,11 @@ We will now create our virtual machine, we start out in the default directory by
 
 ![image](https://github.com/user-attachments/assets/b76ca780-c841-489b-91a5-c93a1c9dab31)
 
-When we start creating our virtual machine, we have to make sure it links up to our resource group named "Azure-Resource-Group". For the virtual machine name we have picked "Azureuser".
+When we start creating our virtual machine, we have to make sure it links up to our resource group named "Azure-Resource-Group". Also, make sure that the region you picked is the same as the resource group we created. For the virtual machine name we have picked "Azureuser".
 
 ![image](https://github.com/user-attachments/assets/6126989b-038a-48aa-afe9-cd07f46e7871)
 
-The virtual machine image we are going to create is Windows 10 Pro version 22H2 and for the size we are going to pick Standard_E2s_v3 - 2 vcpus, 16 GiB memory which should be enough to run our image of Windows 10 Pro Version. We will then click "Review+Create" and we will see if our virtual machine is in the default directory.
+The virtual machine image we are going to create is Windows 10 Pro version 22H2 and for the size we are going to pick Standard_E2s_v3 - 2 vcpus, 16 GiB memory which should be enough to run our image of Windows 10 Pro Version. Then you will click disk and network, it should automatically create the network for the virtual machine. We will then click "Review+Create" and we will see if our virtual machine is in the default directory.
 
 ![image](https://github.com/user-attachments/assets/f4bf0f8a-7af7-4094-86cc-e144d2d44e54)
 
